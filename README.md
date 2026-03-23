@@ -1,1 +1,1 @@
-Podatkovna Infrastruktura i Povezanost - KMAV
+Podatkovna Infrastruktura i Povezanost - KMAV - JMBAG: 0246126887
