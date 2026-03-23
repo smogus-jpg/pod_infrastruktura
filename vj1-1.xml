@@ -1,0 +1,12 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<Student>
+    <ime>Ivan</ime>
+    <prezime>Horvat</prezime>
+    <jmbag>24688567890</jmbag>
+    <dob>2000-03-16</dob>
+    <godina_studija>2</godina_studija>
+    <st_program>Informatički Dizajn</st_program>
+    <ulica>Arnoldolova ulica</ulica>
+    <grad>Zagreb</grad>
+    <p_broj>10000</p_broj>
+</Student>
